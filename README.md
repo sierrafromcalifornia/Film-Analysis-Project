@@ -1,4 +1,4 @@
-![Theater Scene](images/zooey-deschanel-joseph-gordon-levitt-500-days-of-summer-vaRCdgM0fLNrW.gif)
+"![Theater Scene](images/zooey-deschanel-joseph-gordon-levitt-500-days-of-summer-vaRCdgM0fLNrW.gif)"
  
 # Film Analysis Project
 
@@ -8,7 +8,7 @@
 
 This project analyses the film industry as we determine what initial questions should be answered for a newcomer interested in starting their own studio. We have been charged with helping Microsoft determine which types of films do best at the box office and what to keep in mind as they enter a new, highly competitve sector. We'll use two datasets to compare film attributes and garnered profits. Microsoft can use the following analysis to determine what genres of original content they'd like to focus on, which competitors are the most revered, and who they'll want on their team.
 
-![Eureka Moment](images/lgbt-transgender-trans-l0ErBdKr1fnFRZIbu.gif)
+"![Eureka Moment](images/lgbt-transgender-trans-l0ErBdKr1fnFRZIbu.gif)"
 
 ## Business Problem
 
