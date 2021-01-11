@@ -3,7 +3,7 @@
  
 # Film Analysis Project
 
-**Authors**: Sierra Stanton
+**Author**: Sierra Stanton
 
 ## Overview
 
