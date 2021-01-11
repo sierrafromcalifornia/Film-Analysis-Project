@@ -1,12 +1,5 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "![Theater Scene](images/zooey-deschanel-joseph-gordon-levitt-500-days-of-summer-vaRCdgM0fLNrW.gif)"
-   ]
-  }
+![Theater Scene](images/zooey-deschanel-joseph-gordon-levitt-500-days-of-summer-vaRCdgM0fLNrW.gif)
+
  
 # Film Analysis Project
 
