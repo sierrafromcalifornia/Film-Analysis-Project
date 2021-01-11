@@ -1,4 +1,4 @@
-# Title
+# Film Analysis Project
 
 **Authors**: Sierra Stanton
 
