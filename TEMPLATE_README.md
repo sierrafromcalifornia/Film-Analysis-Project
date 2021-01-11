@@ -19,8 +19,8 @@ Whether Microsoft wants to collaborate with the storytellers, bring them on as a
 ## Data
 
 Data will be used from the following sources:
-* __[The Numbers](https://the-numbers.com)__)
-* __[IMDB](https://imdb.com)__)
+* __[The Numbers](https://the-numbers.com)__
+* __[IMDB](https://imdb.com)__
 
 The Numbers' Film Budgets (`tn.movie_budgets.csv.gz`): this dataset shows us monetary numbers worth considering when planning to produce a film. This includes the initial production budget and gross earning at both a domestic and worldwide scale for the film in question. We are also given the release date of the film for additional context. I intend to match the production budget and worldwide gross earnings wiith IMDB's top films to gain insight. This will be further developed with a new column we'll create - ROI.
 
@@ -33,13 +33,13 @@ I use descriptive analysis to show (1) the most frequented genres in top films a
 Due to the datasets used and their current nature, I'm confident these findings will prove relevant as Microsoft starts their new studio. There are many more ways we can deepen our analysis to prove even more insightful with more time and access to more data.
 
 ### Genres Held in the Highest Regard
-![graph1](./images/visual_genredistribution.png)
+![graph1](./images/visual_top_genre.png)
 
 ### Average ROI Across Film Genres
 ![graph2](./images/visual_roi_across_genres.png)
 
 ### Studios Most Frequently Behind Top Films
-![graph3](./images/visual_studiodistribution.png)
+![graph3](./images/visual_top_studios.png)
 
 ### Top Directors
 ![graph4](./images/visual_top_actors.png)
@@ -71,7 +71,7 @@ This goes beyond our film analysis and is worth further exploration.
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-film-analysis-project.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **Sierra Stanton & stanton.sierraerin@gmail.com
+For any additional questions, please contact **Sierra Stanton** & stanton.sierraerin@gmail.com
 
 ## Repository Structure
 
