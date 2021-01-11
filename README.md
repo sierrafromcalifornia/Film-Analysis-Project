@@ -74,7 +74,7 @@ This goes beyond our film analysis and is worth further exploration.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-film-analysis-project.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./dsc-film-analysis-project.ipynb) or our [presentation](./Film_Analysis_Project.pdf).
 
 For any additional questions, please contact **Sierra Stanton** & stanton.sierraerin@gmail.com
 
