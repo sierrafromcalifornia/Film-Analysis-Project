@@ -47,7 +47,7 @@ Due to the datasets used and their current nature, I'm confident these findings 
 ![graph3](./images/visual_top_studios.png)
 
 ### Top Directors
-![graph4](./images/visual_top_actors.png)
+![graph4](./images/visual_top_directors.png)
 
 ### Top Writers
 ![graph5](./images/visual_top_writers.png)
@@ -57,10 +57,8 @@ Due to the datasets used and their current nature, I'm confident these findings 
 
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
 * **Hire revered storytellers.** Our distributions show us that audiences tend to favor particular storytellers above the rest. These films clearly have a much higher chance of winning at the box office.
-* **Poach executives and/or collaborate with the top studios.** Since one of Microsoft's greatest pain points is not having the know how to create great films, we need to keep in mind that great filmmakers often need truly great executives behind the scenes in order for their work to flourish. We can poach high quality executives with pre-existing relationships in Hollywood to help us bridge the gap. We also saw that quite a few of the top films had more than one studio on board. We don't have to go it alone, especially in the beginning as we get our bearings.
+* **Poach executives and/or collaborate with the top studios.** Since one of Microsoft's greatest pain points is not having the know-how to create great films, we need to keep in mind that great filmmakers often need truly great executives behind the scenes in order for their work to flourish. We can poach high quality executives with pre-existing relationships in Hollywood to help us bridge the gap. We also saw that quite a few of the top films had more than one studio on board. We don't have to go it alone, especially in the beginning as we get our bearings.
 * **Focus on drama with your content and your wallet.** While there are quite a few ways to expand beyond this primary genre and make a truly great film, this tends to be the backbone of the greats. Microsoft shouldn't ignore this and instead should make the majority of their upcoming releases a Drama as the studio starts up. Due to drama being more of a sure bet, they also should expect more return on investment from budget spent on these films and their advertising.
 * **Budget for multiple writers per film.** We can see that there is on average more than one writer per film in our IMDB dataset. While this isn't necessary, it tends to point toward a great film.
 
@@ -69,7 +67,7 @@ Provide your conclusions about the work you've done, including any limitations o
 This goes beyond our film analysis and is worth further exploration.
 
 * **Groom less experienced storytellers.** If Microsoft develops a repeated process where experienced storytellers groom up and comers, Microsoft is much more likely to develop a steady stream of quality filmmakers that audiences will grow to love. Due to the popularity of streaming, this could mean even there ealier work can get future recognition and revenue.
-* **Pay attention to a growing trend toward diversity.** One of Microsoft's primary values stated is diversity and inclusion. Viewers across the US and the world are becoming increasingly diverse and studies show that audiences favor stories that reflect their own. Microsoft has the chance to launch with this sort of understanding in their DNA. While diversity is sometimes noted in Hollywood, there are enormous strides needed (see [UCLA's 2020 Diversity Report](https://socialsciences.ucla.edu/wp-content/uploads/2020/02/UCLA-Hollywood-Diversity-Report-2020-Film-2-6-2020.pdf)) and there isn't a leading studio yet that has from its origin stood for diversity in front of and behind the camera. Quality storytellers are starting to make film decisions based on these factors (see efforts like the inclusion rider). Many of the necessary pieces and collaborators are already in existence (see firms like Charles King's [MACRO](https://www.staymacro.com/), Scott Budnick's [One Community](http://1communityllc.com/), Ava Duvernay's [Array](http://www.arraynow.com/). I believe this is a trend worth betting on for the long term and can make Microsoft stand apart. I'd like to prove it.
+* **Pay attention to a growing trend toward diversity.** One of Microsoft's primary values stated is diversity and inclusion. Viewers across the US and the world are becoming increasingly diverse and studies show that audiences favor stories that reflect their own. Microsoft has the chance to launch with this sort of understanding in their DNA. While diversity is sometimes noted in Hollywood, there are enormous strides needed (see [UCLA's 2020 Diversity Report](https://socialsciences.ucla.edu/wp-content/uploads/2020/02/UCLA-Hollywood-Diversity-Report-2020-Film-2-6-2020.pdf)) and there isn't a leading studio yet that has from its origin stood for diversity in front of and behind the camera. Quality storytellers are starting to make film decisions based on these factors (see efforts like the inclusion rider). Many of the necessary pieces and collaborators are already in existence (see firms like Charles King's [MACRO](https://www.staymacro.com/), Scott Budnick's [One Community](http://1communityllc.com/), Ava Duvernay's [Array](http://www.arraynow.com/)). I believe this is a trend worth betting on for the long term and can make Microsoft stand apart.
 * **Expand on our findings to chart increasingly current findings** While our IDMB dataset showed the current top 250 films, there is such a range of years covered that we could determine attributes and trends that have changed over time and would enhance these findings to become increasingly relevant. We could also introduce additional current ways of gauging the success of a film - by introducing streaming metrics and data around evergreen content that continues to take in profit and royalties. We could also expand beyond the medium to enlist Microsoft's studio to create other types of visual content versus long-form films.
 
 ## For More Information
@@ -80,12 +78,10 @@ For any additional questions, please contact **Sierra Stanton** & stanton.sierra
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Film_Analysis_Project.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md
+├── dsc-phase1-project-template.ipynb
+├── Film_Analysis_Project.pdf
+├── data
+└── images
 ```
