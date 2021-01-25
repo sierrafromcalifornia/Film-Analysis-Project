@@ -17,7 +17,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 First, we'll tackle which type of films are worth focusing on and answer this by establishing which genres audiences favor most and which genres pull in the most return on investment (ROI).
 
-Second, since Microsoft doesn't know anything about creating movies - we'll hand over proven recommendations on who to hire with experience in a production's most pivotal roles. From directors to writers and more, we'll do a deep dive into the most revered among each role. We'll even give a little insight into some of the executives pulling the strings. 
+Second, since Microsoft doesn't know anything about creating movies - we'll hand over proven recommendations on who to hire with experience in a production's most pivotal roles. From directors to writers and more, we'll do a deep dive into the most revered among each role. We'll even give a little insight into some of the leading film studios behind the scenes. 
 
 Whether Microsoft wants to collaborate with the storytellers, bring them on as advisors, or simply have a greater understanding of the competition - that short list of people will be revealed.
 
@@ -33,9 +33,12 @@ IMDB's Top 250 Films(`IMDB_Top250Engmovies2_OMDB_Detailed.csv.gz`): this dataset
 
 ## Methods & Results
 
-I use descriptive analysis to show (1) the most frequented genres in top films and which genres prove most profitable, (2) the studios that most frequently produce top films, and (3) the storytellers most represented in hit films.
+I use descriptive analysis to show:
+* The most frequented genres in top films and which genres prove most profitable 
+* The studios that most frequently produce top films
+* The storytellers most represented in hit films
 
-Due to the datasets used and their current nature, I'm confident these findings will prove relevant as Microsoft starts their new studio. There are many more ways we can deepen our analysis to prove even more insightful with more time and access to more data.
+Due to the datasets used and their current nature, I'm confident these findings will prove relevant as Microsoft starts their new studio. There are many more ways we can deepen our analysis to prove even more insightful with more time and access to additional data.
 
 ### Genres Held in the Highest Regard
 ![graph1](./images/visual_top_genre.png)
@@ -67,7 +70,7 @@ Due to the datasets used and their current nature, I'm confident these findings 
 This goes beyond our film analysis and is worth further exploration.
 
 * **Groom less experienced storytellers.** If Microsoft develops a repeated process where experienced storytellers groom up and comers, Microsoft is much more likely to develop a steady stream of quality filmmakers that audiences will grow to love. Due to the popularity of streaming, this could mean even there ealier work can get future recognition and revenue.
-* **Pay attention to a growing trend toward diversity.** One of Microsoft's primary values stated is diversity and inclusion. Viewers across the US and the world are becoming increasingly diverse and studies show that audiences favor stories that reflect their own. Microsoft has the chance to launch with this sort of understanding in their DNA. While diversity is sometimes noted in Hollywood, there are enormous strides needed (see [UCLA's 2020 Diversity Report](https://socialsciences.ucla.edu/wp-content/uploads/2020/02/UCLA-Hollywood-Diversity-Report-2020-Film-2-6-2020.pdf)) and there isn't a leading studio yet that has from its origin stood for diversity in front of and behind the camera. Quality storytellers are starting to make film decisions based on these factors (see efforts like the inclusion rider). Many of the necessary pieces and collaborators are already in existence (see firms like Charles King's [MACRO](https://www.staymacro.com/), Scott Budnick's [One Community](http://1communityllc.com/), Ava Duvernay's [Array](http://www.arraynow.com/)). I believe this is a trend worth betting on for the long term and can make Microsoft stand apart.
+* **Pay attention to a growing trend toward diversity.** One of Microsoft's primary values stated is diversity and inclusion. Viewers across the US and the world are becoming increasingly diverse and studies show that audiences favor stories that reflect their own (see [UCLA's 2020 Diversity Report](https://socialsciences.ucla.edu/wp-content/uploads/2020/02/UCLA-Hollywood-Diversity-Report-2020-Film-2-6-2020.pdf)). Microsoft has the chance to launch with this sort of understanding in their DNA. While diversity is sometimes noted in Hollywood, there are enormous strides needed and there isn't a leading studio yet that has from its origin stood for diversity in front of and behind the camera. Quality storytellers are starting to make film decisions based on these factors (see efforts like the inclusion rider). Many of the necessary pieces and collaborators are already in existence (see firms like Charles King's [MACRO](https://www.staymacro.com/), Scott Budnick's [One Community](http://1communityllc.com/), Ava Duvernay's [Array](http://www.arraynow.com/)). I believe this is a trend worth betting on for the long term and can make Microsoft stand apart.
 * **Expand on our findings to chart increasingly current findings** While our IDMB dataset showed the current top 250 films, there is such a range of years covered that we could determine attributes and trends that have changed over time and would enhance these findings to become increasingly relevant. We could also introduce additional current ways of gauging the success of a film - by introducing streaming metrics and data around evergreen content that continues to take in profit and royalties. We could also expand beyond the medium to enlist Microsoft's studio to create other types of visual content versus long-form films.
 
 ## For More Information
@@ -80,7 +83,7 @@ For any additional questions, please contact **Sierra Stanton** & stanton.sierra
 
 ```
 ├── README.md
-├── dsc-phase1-project-template.ipynb
+├── dsc-film-analysis-project.ipynb
 ├── Film_Analysis_Project.pdf
 ├── data
 └── images
