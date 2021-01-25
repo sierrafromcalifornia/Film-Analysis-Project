@@ -2,14 +2,13 @@
 
  
 # Film Analysis Project
+![Github Repo Size](https://img.shields.io/github/repo-size/sierrafromcalifornia/Film-Analysis-Project?style=social)
+![Github Follow](https://img.shields.io/github/followers/sierrafromcalifornia?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sierrastanton?style=social)
 
 **Author**: Sierra Stanton
 
 ## Overview
-
-![Github Repo Size](https://img.shields.io/github/repo-size/sierrafromcalifornia/Film-Analysis-Project?style=social)
-![Github Follow](https://img.shields.io/github/followers/sierrafromcalifornia?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/sierrastanton?style=social)
 
 This project analyses the film industry as we determine what initial questions should be answered for a newcomer interested in starting their own studio. We have been charged with helping Microsoft determine which types of films do best at the box office and what to keep in mind as they enter a new, highly competitive sector. We'll use two datasets to compare film attributes and garnered profits. Microsoft can use the following analysis to determine what genres of original content they'd like to focus on, which competitors are the most revered, and who they'll want on their team.
 
